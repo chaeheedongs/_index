@@ -7,7 +7,7 @@
 
 
 ## JPA
-* [자바 ORM 표준 JPA 프로그래밍 - 기본편](https://github.com/chaeheedongs/inflearn-jpa-basic/blob/main/README.md)
+* [(private) 자바 ORM 표준 JPA 프로그래밍 - 기본편](https://github.com/chaeheedongs/inflearn-jpa-basic/blob/main/README.md)
 
 
 ## etc
