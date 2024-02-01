@@ -10,6 +10,7 @@
 
 ## JPA
 * [(private) 자바 ORM 표준 JPA 프로그래밍 - 기본편](https://github.com/chaeheedongs/inflearn-jpa-basic/blob/main/README.md)
+* [(private) 스프링 핵심 원리 - 고급편](https://github.com/chaeheedongs/inflearn-spring-advanced/blob/main/README.md)
 
 <br/><br/><br/>
 
