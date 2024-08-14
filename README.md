@@ -6,6 +6,7 @@
 
 ## Java
 * [Java](https://github.com/chaeheedongs/JavaBasic/blob/master/README.md)
+* [(private) 자바 - 중급편1](https://github.com/chaeheedongs/inflearn-java-intermediate)
 * [Data Structure](https://github.com/chaeheedongs/DataStructure/blob/main/README.md)
 
 <br/><br/><br/>
