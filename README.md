@@ -29,7 +29,7 @@
 
 
 ## DDD
-* [(private) 오브젝트 - 기본편](https://github.com/chaeheedongs/inflearn-object-basic/blob/main/README.md))
+* [(private) 오브젝트 - 기본편](https://github.com/chaeheedongs/inflearn-object-basic/blob/main/README.md)
 
 <br/><br/><br/>
 
