@@ -10,6 +10,7 @@
 * [Data Structure](https://github.com/chaeheedongs/DataStructure/blob/main/README.md)
 * [Effective Java](https://github.com/chaeheedongs/EffectiveJava)
 * [(private) Object Book](https://github.com/chaeheedongs/ObjectBook)
+* [(private)WhiteShipDesignPattern](https://github.com/chaeheedongs/WhiteShipDesignPattern)
 
 <br/><br/><br/>
 
