@@ -36,6 +36,7 @@
 ## DDD
 * [(private) 오브젝트 - 기본편](https://github.com/chaeheedongs/inflearn-object-basic/blob/main/README.md)
 * [(private) 도메인 주도 개발](https://github.com/chaeheedongs/DomainBasic)
+* [(private) 토비의 클린 스프링 - 도메인 모델 패턴과 헥사고날 아키텍처 Part 1](https://github.com/chaeheedongs/inflearn-clean-spring/tree/main)
 
 <br/><br/><br/>
 
